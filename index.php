@@ -8,6 +8,10 @@
 	<form>
 		imie<input type="text">
 	</form>
+
+	<footer>
+		<<p>Copywright by Mariusz</p>
+	</footer>
 	
 </body>
 </html>
