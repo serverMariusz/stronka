@@ -5,6 +5,9 @@
 	<title>Document</title>
 </head>
 <body>
+	<form>
+		imie<input type="text">
+	</form>
 	
 </body>
 </html>
