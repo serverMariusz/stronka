@@ -8,6 +8,7 @@
 	<h1>Formularz</h1>
 	<form>
 		imie<input type="text">
+		nazwisko<input type="text">
 	</form>
 
 	<footer>
